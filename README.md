@@ -49,16 +49,16 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <br>Maven
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
-      <br>Swagger
+      <img src="ima" width="48" height="48" alt="Swagger" />
+      <br>PowerBI
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/junit5/25A162" width="48" height="48" alt="JUnit5" />
-      <br>JUnit
+      <br>MySQL
     </td>
      <td align="center" width="96">
       <img src="https://www.svgrepo.com/show/331335/cisco.svg" width="48" height="48" alt="Cisco" />
-      <br>Cisco
+      <br>Pessoas
     </td>
   </tr>
 </table>
