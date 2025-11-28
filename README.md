@@ -28,7 +28,7 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
     </td>
     <td align="center" width="96">
       <img src="https://https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/python.svg" width="48" height="48" alt="C++" />
-      <br>C++
+      <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
