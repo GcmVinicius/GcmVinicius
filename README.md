@@ -80,9 +80,9 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| **
-| **
-| **
+| **[Sistema de Cadastro de Clientes](https://github.com/GcmVinicius/_gitHub_CadastroCliente_parte1)** | Sistema para cadstro de clientes | Java |
+| **[Sistema de Cadastro Ninja](https://github.com/GcmVinicius/CadastroDeNinja)** | Projeto de cadastro envolvendo API(Springboot)| Java, SpringBoot |
+
 
 ---
 
