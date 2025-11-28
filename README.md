@@ -27,7 +27,7 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <br>Spring
     </td>
     <td align="center" width="96">
-      <img src="https://https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/python.svg" width="48" height="48" alt="C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="C++" />
       <br>Python
     </td>
     <td align="center" width="96">
@@ -35,7 +35,7 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Docker" />
       <br>Oracle
     </td>
   </tr>
@@ -53,7 +53,7 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <br>PowerBI
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/junit5/25A162" width="48" height="48" alt="JUnit5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="JUnit5" />
       <br>MySQL
     </td>
      <td align="center" width="96">
