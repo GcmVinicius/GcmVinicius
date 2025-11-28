@@ -49,7 +49,7 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <br>Maven
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/New_Power_BI_Logo.svg" width="48" height="48" alt="Swagger" />
+      <img src="" width="48" height="48" alt="Swagger" />
       <br>PowerBI
     </td>
     <td align="center" width="96">
