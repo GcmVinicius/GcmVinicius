@@ -57,7 +57,7 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <br>MySQL
     </td>
      <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/331335/cisco.svg" width="48" height="48" alt="Cisco" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-plain.svg" width="48" height="48" alt="Cisco" />
       <br>Pessoas
     </td>
   </tr>
