@@ -31,12 +31,10 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>Oracle
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Docker" />
-      <br>Oracle
     </td>
   </tr>
   <tr>
@@ -49,16 +47,14 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <br>Maven
     </td>
     <td align="center" width="96">
-      <img src="" width="48" height="48" alt="Swagger" />
-      <br>PowerBI
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Swagger" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="JUnit5" />
       <br>MySQL
     </td>
      <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-plain.svg" width="48" height="48" alt="Cisco" />
-      <br>Pessoas
     </td>
   </tr>
 </table>
