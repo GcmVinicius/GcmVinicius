@@ -34,8 +34,6 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="PostgreSQL" />
       <br>Oracle
     </td>
-    <td align="center" width="96">
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -54,8 +52,8 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="JUnit5" />
       <br>MySQL
     </td>
-     <td align="center" width="96">
-    </td>
+
+
   </tr>
 </table>
 
